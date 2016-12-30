@@ -3,5 +3,6 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 hello summer
 hello world
+hello everyone
 
 
